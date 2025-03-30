@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d86373d9ea2e1bba",
+        "id": "cac71f1ddd7512ab",
         "type": "tabs",
         "children": [
           {
-            "id": "caba9b37a5132174",
+            "id": "2465af59c8ceec54",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math prerequisites for CS and Al.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Math prerequisites for CS and Al"
+              "title": "New tab"
             }
           }
         ]
@@ -84,6 +80,20 @@
           "icon": "lucide-bookmark",
           "title": "Bookmarks"
         }
+      },
+      {
+        "id": "71a8c9e46ec722bb",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
       }
     ],
     "currentTab": 0
@@ -98,7 +108,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "readme.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -139,25 +148,86 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "9556abb92c48700b",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
+      },
+      {
+        "id": "6ac7fff77d4d5b1f",
+        "type": "leaf",
+        "state": {
+          "type": "todo",
+          "state": {},
+          "icon": "checkmark",
+          "title": "Todo List"
+        }
+      },
+      {
+        "id": "9b2d41363a55a2e4",
+        "type": "leaf",
+        "state": {
+          "type": "reminder-list",
+          "state": {},
+          "icon": "clock",
+          "title": "Reminders"
+        }
+      },
+      {
+        "id": "d6f2260897ba5e6a",
+        "type": "leaf",
+        "state": {
+          "type": "link-tree",
+          "state": {},
+          "icon": "list-tree",
+          "title": "Link Tree"
+        }
       }
     ],
     "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "link-tree:Link Tree": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "zk-prefixer:Create new unique note": false,
+      "obsidian-projects:Open projects": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "caba9b37a5132174",
+  "active": "2465af59c8ceec54",
   "lastOpenFiles": [
-    "readme.md",
-    "Math prerequisites for CS and Al.md",
+    "_Index_of_final_form.md",
+    "Untitled.md",
+    "period specific notes",
     "AI career path.md",
-    "CS Career Path.md"
+    "period specific notes/yearly",
+    "period specific notes/quarterly",
+    "period specific notes/monthly",
+    "period specific notes/weekly",
+    "period specific notes/daily",
+    "CS Career Path.md",
+    "Math prerequisites for CS and Al.md",
+    "readme.md"
   ]
 }

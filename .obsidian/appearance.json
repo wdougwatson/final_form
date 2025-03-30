@@ -1,1 +1,7 @@
-{}
+{
+  "theme": "obsidian",
+  "cssTheme": "80s Neon",
+  "baseFontSizeAction": false,
+  "baseFontSize": 20,
+  "accentColor": ""
+}
